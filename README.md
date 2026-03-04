@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @ElvinIsmayil<br>👀 I’m interested in Backend development<br>🌱 I’m currently learning Backend Web Development<br>😄 Pronouns: He/him<br>⚡ Fun fact: I am always busy
 
+## 💬 Favorite Quote:
+> "If you don’t sacrifice for your dreams, your dreams become the sacrifice." 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TTfPDAN5eG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100042275979866) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elvinismayil_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ElvinIsmayil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29175647) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elvinismayil_7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ElvinIsmayilOfficial) 
