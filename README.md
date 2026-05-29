@@ -1,6 +1,3 @@
-# 💫 About Me:
-👋 Hi, I’m @ElvinIsmayil<br>👀 I’m focused in Backend development<br>😄 Pronouns: He/him<br>⚡ Fun fact: I am always busy
-
 ## 💬 Favorite Quote:
 > "**_If you don’t sacrifice for your dreams, your dreams become the sacrifice._**" 
 
